@@ -1,0 +1,22 @@
+#hading{
+    color: red;
+    /*background-color: black;*/
+}
+.hading2{
+    color: green;
+    font-size: 200%;
+   
+}
+.bd{
+    color: white;
+    background-color: red;
+    font-size: 300%;
+}
+.bc{
+    background-color: blueviolet;
+    background-image: url("https://static.wikia.nocookie.net/beyblade/images/4/44/LDrago523.jpg/revision/latest/scale-to-width-down/250?cb=20111208030559");
+    /* background-image: url("ldrago.webp"); */
+    background-size: 78%;
+    background-position: 50% 1%;
+
+}
